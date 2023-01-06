@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samrat12x
-- 👀 I’m interested in ALL TECHNOLGIES
+- 👀 I’m interested in all TECHNOLGIES related to fullstack
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
