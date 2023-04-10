@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samrat12x&label=Profile%20views&color=0e75b6&style=flat" alt="samrat12x" /> </p>
 
+- Check out my [Portfoilio website](https://my-portfolio-website-8zz.pages.dev/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samrat-patel-20962a22a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samrat-patel-20962a22a" height="30" width="40" /></a>
@@ -14,11 +16,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samrat12x&show_icons=true&locale=en" alt="samrat12x" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samrat12x&" alt="samrat12x" /></p>
-
-- 📫 How to reach me 
-- email :samratpatel12x@gmail.com
-
-<!---
-samrat12x/samrat12x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
